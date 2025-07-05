@@ -1,0 +1,38 @@
+#heading {
+    background-color: lightskyblue;
+    font-size: 35px;
+    color: white;
+    margin: 15px;
+    padding: 15px;
+}
+
+ul, ol {
+    font-size: 20px;
+    font-family: 'Times New Roman', sans-serif
+}
+
+.align, .heading {
+    text-align: center;
+    background-color: lightskyblue;
+    padding: 15px;
+    border-color: lightblue;
+    border: 10px;
+    font-size: 25px;
+}
+
+#one {
+    
+    margin-left: 120px
+}
+
+
+
+#two {
+    float: right;
+    margin-right: 120px;
+    
+}
+
+div {
+    font-weight: bold;
+}
